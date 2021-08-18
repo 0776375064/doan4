@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>web/admin/album/list.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>19</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/java/hhd/Player.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>153</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/EJB/sem4Test/sem4Project-war/web/css/app/app.css</file>
+            <file>file:/E:/EJB/sem4Test/sem4Project-war/web/includes/footer.jsp</file>
+            <file>file:/E:/EJB/sem4Test/sem4Project-war/src/java/hhd/clientAccount.java</file>
+            <file>file:/E:/EJB/sem4Test/sem4Project-war/web/js/app.js</file>
+            <file>file:/E:/EJB/sem4Test/sem4Project-war/src/java/hhd/Controller.java</file>
+            <file>file:/E:/EJB/sem4Test/sem4Project-war/web/js/audioplayer.js</file>
+        </group>
+    </open-files>
+</project-private>
